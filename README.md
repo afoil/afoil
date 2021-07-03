@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Okada Akira
-linkedin: www.linkedin.com/in/not-not-akira-okada
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+[![LinkedIn](https://img.shields.io/badge/OkadaAkira-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/not-not-akira-okada/)](https://www.linkedin.com/in/not-not-akira-okada/)
