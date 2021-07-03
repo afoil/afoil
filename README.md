@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 # Okada Akira
 linkedin: www.linkedin.com/in/not-not-akira-okada
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
