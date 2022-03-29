@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 # Okada Akira
 # Certification
 AWS Certified Cloud Practitioner (2021/12)
+
 AWS Certified Solutions Architect – Associate (2022/02)
+
 AWS Certified Developer – Associate (2022/02)
