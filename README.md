@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Okada Akira
-[![LinkedIn](https://img.shields.io/badge/OkadaAkira-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/not-not-akira-okada/)](https://www.linkedin.com/in/not-not-akira-okada/)
