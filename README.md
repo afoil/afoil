@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Okada Akira
+# Certification
+AWS Certified Cloud Practitioner
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26b958be-07f5-48bc-b1a9-ef98f1670e77" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+AWS Certified Solutions Architect – Associate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3bfa48a-02fa-405c-a1f3-462ad7d2da32" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+AWS Certified Developer – Associate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="93b03953-f04f-4eb1-8e26-e8ac9a363d66" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
